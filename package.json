@@ -1,0 +1,7 @@
+{
+  "name": "xbackend-root",
+  "version": "1.0.0",
+  "dependencies": {
+    "root-only-dep-marker": "9.9.9"
+  }
+}
