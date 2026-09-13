@@ -1,0 +1,4 @@
+secret_scan_me.txt export-ignore
+manifest_ignored/package.json export-ignore
+format_subst.txt export-subst
+ident_file.txt ident

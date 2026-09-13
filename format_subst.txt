@@ -1,0 +1,2 @@
+commit-hash-here: $Format:%H$
+ref: $Format:%d$
